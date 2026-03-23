@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Zara",
+    "category": "Thời trang",
+    "description": "Thời trang quốc tế phong cách Châu Âu, cập nhật xu hướng mới nhất từ các sàn diễn thời trang thế giới.",
+    "image": "https://picsum.photos/seed/store-zara/400/300",
+    "floor": "Tầng 2",
+    "discount": "Giảm 20%",
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "H&M",
+    "category": "Thời trang",
+    "description": "Thời trang bình dân cao cấp từ Thụy Điển, phong cách tối giản hiện đại, thân thiện với môi trường.",
+    "image": "https://picsum.photos/seed/store-hm/400/300",
+    "floor": "Tầng 2",
+    "discount": "Giảm 15%",
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": 3,
+    "name": "Nike",
+    "category": "Thể thao",
+    "description": "Thương hiệu thể thao hàng đầu thế giới với giày, trang phục và thiết bị thể thao chất lượng cao.",
+    "image": "https://picsum.photos/seed/store-nike/400/300",
+    "floor": "Tầng 1",
+    "discount": "Giảm 10%",
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "name": "Adidas",
+    "category": "Thể thao",
+    "description": "Thương hiệu thể thao Đức với thiết kế sáng tạo, công nghệ tiên tiến và phong cách streetwear đẳng cấp.",
+    "image": "https://picsum.photos/seed/store-adidas/400/300",
+    "floor": "Tầng 1",
+    "discount": "Giảm 25%",
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "name": "Uniqlo",
+    "category": "Thời trang",
+    "description": "Thời trang Nhật Bản chất lượng cao với thiết kế đơn giản, chất liệu cao cấp và giá cả hợp lý.",
+    "image": "https://picsum.photos/seed/store-uniqlo/400/300",
+    "floor": "Tầng 3",
+    "discount": "Giảm 30%",
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": 6,
+    "name": "Pandora",
+    "category": "Trang sức",
+    "description": "Trang sức cao cấp từ Đan Mạch với thiết kế tinh tế, vật liệu quý giá và ý nghĩa đặc biệt cho người tặng.",
+    "image": "https://picsum.photos/seed/store-pandora/400/300",
+    "floor": "Tầng 1",
+    "discount": "Quà tặng đặc biệt",
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "name": "Pull & Bear",
+    "category": "Thời trang",
+    "description": "Thời trang trẻ trung, năng động với mức giá hợp lý từ thương hiệu Tây Ban Nha thuộc tập đoàn Inditex.",
+    "image": "https://picsum.photos/seed/store-pullbear/400/300",
+    "floor": "Tầng 2",
+    "discount": "Giảm 20%",
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": 8,
+    "name": "Sephora",
+    "category": "Mỹ phẩm",
+    "description": "Thiên đường mỹ phẩm cao cấp với hơn 300 thương hiệu quốc tế nổi tiếng, đội ngũ tư vấn chuyên nghiệp.",
+    "image": "https://picsum.photos/seed/store-sephora/400/300",
+    "floor": "Tầng 1",
+    "discount": "Thành viên giảm 15%",
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": 9,
+    "name": "Mango",
+    "category": "Thời trang",
+    "description": "Thương hiệu thời trang Tây Ban Nha sang trọng, thanh lịch với các BST cập nhật theo từng mùa.",
+    "image": "https://picsum.photos/seed/store-mango/400/300",
+    "floor": "Tầng 2",
+    "discount": "Giảm 20%",
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": 10,
+    "name": "Levi's",
+    "category": "Thời trang",
+    "description": "Thương hiệu jeans quốc dân nước Mỹ với lịch sử hơn 170 năm, chất lượng bền vững và phong cách vượt thời gian.",
+    "image": "https://picsum.photos/seed/store-levis/400/300",
+    "floor": "Tầng 2",
+    "discount": "Giảm 15%",
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": 11,
+    "name": "Innisfree",
+    "category": "Mỹ phẩm",
+    "description": "Thương hiệu mỹ phẩm thiên nhiên Hàn Quốc, sử dụng nguyên liệu từ đảo Jeju sạch và thuần tự nhiên.",
+    "image": "https://picsum.photos/seed/store-innisfree/400/300",
+    "floor": "Tầng 1",
+    "discount": "Mua 2 tặng 1",
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": 12,
+    "name": "New Balance",
+    "category": "Thể thao",
+    "description": "Thương hiệu giày thể thao Mỹ với công nghệ đế giảm chấn ưu việt, thiết kế retro đang rất được ưa chuộng.",
+    "image": "https://picsum.photos/seed/store-newbalance/400/300",
+    "floor": "Tầng 1",
+    "discount": "Giảm 20%",
+    "isNew": true,
+    "isFeatured": false
+  }
+]

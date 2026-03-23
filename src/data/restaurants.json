@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Highlands Coffee",
+    "cuisine": "Cà phê & Đồ uống",
+    "description": "Thương hiệu cà phê Việt Nam hàng đầu với không gian thoáng mát, menu đa dạng từ cà phê truyền thống đến các thức uống hiện đại.",
+    "image": "https://picsum.photos/seed/restaurant-cafe/400/300",
+    "floor": "Tầng 1",
+    "hours": "07:00 - 22:00",
+    "rating": 4.5,
+    "tags": ["Cà phê", "Trà", "Bánh ngọt"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "KFC",
+    "cuisine": "Gà rán & Fast food",
+    "description": "Chuỗi gà rán nổi tiếng thế giới với hương vị đặc trưng không thể nhầm lẫn. Menu đa dạng phù hợp cho cả gia đình.",
+    "image": "https://picsum.photos/seed/restaurant-kfc/400/300",
+    "floor": "Tầng 1",
+    "hours": "09:00 - 22:00",
+    "rating": 4.2,
+    "tags": ["Gà rán", "Burger", "Fast food"],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Pizza Hut",
+    "cuisine": "Pizza & Mỳ Ý",
+    "description": "Pizza thơm ngon với đế bánh giòn chuẩn Mỹ, topping phong phú và nước sốt đặc trưng được yêu thích toàn cầu.",
+    "image": "https://picsum.photos/seed/restaurant-pizza/400/300",
+    "floor": "Tầng 2",
+    "hours": "10:00 - 22:30",
+    "rating": 4.3,
+    "tags": ["Pizza", "Pasta", "Salad"],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Gong Cha",
+    "cuisine": "Trà sữa Đài Loan",
+    "description": "Thương hiệu trà sữa cao cấp từ Đài Loan với nguyên liệu tươi ngon mỗi ngày, hơn 30 loại topping đa dạng.",
+    "image": "https://picsum.photos/seed/restaurant-bubble/400/300",
+    "floor": "Tầng 1",
+    "hours": "09:00 - 21:30",
+    "rating": 4.6,
+    "tags": ["Trà sữa", "Trà trái cây", "Topping"],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Sumo BBQ",
+    "cuisine": "Nướng Nhật Bản",
+    "description": "Buffet nướng Nhật Bản tất cả trong một, với thịt tươi và hải sản nhập khẩu cùng nước sốt gia truyền đặc biệt.",
+    "image": "https://picsum.photos/seed/restaurant-bbq/400/300",
+    "floor": "Tầng 3",
+    "hours": "11:00 - 22:00",
+    "rating": 4.4,
+    "tags": ["Buffet", "Nướng", "Nhật Bản"],
+    "featured": true
+  },
+  {
+    "id": 6,
+    "name": "Phở 24",
+    "cuisine": "Ẩm thực Việt Nam",
+    "description": "Phở truyền thống Việt Nam với nước dùng hầm xương 24 giờ, hương vị chuẩn Bắc được lòng thực khách trong và ngoài nước.",
+    "image": "https://picsum.photos/seed/restaurant-pho/400/300",
+    "floor": "Tầng 2",
+    "hours": "07:00 - 21:00",
+    "rating": 4.5,
+    "tags": ["Phở", "Việt Nam", "Truyền thống"],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Yoshinoya",
+    "cuisine": "Cơm bò Nhật Bản",
+    "description": "Chuỗi cơm bò nổi tiếng Nhật Bản với hơn 100 năm lịch sử, mang đến bữa ăn ngon, nhanh và tiết kiệm.",
+    "image": "https://picsum.photos/seed/restaurant-japanese/400/300",
+    "floor": "Tầng 2",
+    "hours": "09:00 - 21:30",
+    "rating": 4.1,
+    "tags": ["Nhật Bản", "Cơm bò", "Nhanh"],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "The Coffee House",
+    "cuisine": "Cà phê & Đồ uống",
+    "description": "Thương hiệu cà phê Việt với không gian ấm cúng, menu phong phú và cam kết sử dụng hạt cà phê chất lượng cao.",
+    "image": "https://picsum.photos/seed/restaurant-coffeehouse/400/300",
+    "floor": "Tầng 1",
+    "hours": "07:30 - 22:30",
+    "rating": 4.4,
+    "tags": ["Cà phê", "Trà", "Workspace"],
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Lotteria",
+    "cuisine": "Burger & Fast food",
+    "description": "Chuỗi đồ ăn nhanh Hàn Quốc nổi tiếng với burger thơm ngon, khoai tây chiên giòn rụm và các combo hấp dẫn.",
+    "image": "https://picsum.photos/seed/restaurant-burger/400/300",
+    "floor": "Tầng 1",
+    "hours": "09:00 - 22:00",
+    "rating": 4.0,
+    "tags": ["Burger", "Khoai tây", "Fast food"],
+    "featured": false
+  }
+]

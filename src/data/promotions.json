@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Giảm 30% cho thành viên The Garden Club",
+    "description": "Áp dụng cho tất cả nhà hàng và quán cà phê trong The Garden Mall. Chương trình có hiệu lực đến cuối tháng.",
+    "image": "https://picsum.photos/seed/promo-dining/600/400",
+    "badge": "Ưu đãi đặc biệt",
+    "badgeColor": "bg-red-500",
+    "validUntil": "31/03/2024",
+    "category": "dining"
+  },
+  {
+    "id": 2,
+    "title": "Mua sắm thả ga - Hoàn tiền 15%",
+    "description": "Hoàn tiền 15% khi mua sắm tại các thương hiệu thời trang. Tối đa 500,000 VNĐ mỗi hóa đơn.",
+    "image": "https://picsum.photos/seed/promo-fashion/600/400",
+    "badge": "Hot Deal",
+    "badgeColor": "bg-orange-500",
+    "validUntil": "30/04/2024",
+    "category": "shopping"
+  },
+  {
+    "id": 3,
+    "title": "Lễ hội ẩm thực Châu Á tháng 4",
+    "description": "Khám phá hơn 20 món ăn đặc sắc từ các nền ẩm thực Nhật Bản, Hàn Quốc, Thái Lan và nhiều quốc gia khác.",
+    "image": "https://picsum.photos/seed/promo-festival/600/400",
+    "badge": "Sự kiện",
+    "badgeColor": "bg-green-600",
+    "validUntil": "30/04/2024",
+    "category": "event"
+  },
+  {
+    "id": 4,
+    "title": "Flash Sale Cuối Tuần - Đến 50%",
+    "description": "Chỉ từ thứ 6 đến chủ nhật hàng tuần. Săn deal khủng tại hơn 50 cửa hàng tham gia.",
+    "image": "https://picsum.photos/seed/promo-sale/600/400",
+    "badge": "Flash Sale",
+    "badgeColor": "bg-purple-600",
+    "validUntil": "Mỗi cuối tuần",
+    "category": "shopping"
+  },
+  {
+    "id": 5,
+    "title": "Tặng quà sinh nhật - The Garden Club",
+    "description": "Thành viên The Garden Club nhận quà tặng đặc biệt và voucher giảm giá trong tháng sinh nhật.",
+    "image": "https://picsum.photos/seed/promo-birthday/600/400",
+    "badge": "Thành viên",
+    "badgeColor": "bg-pink-500",
+    "validUntil": "Quanh năm",
+    "category": "club"
+  },
+  {
+    "id": 6,
+    "title": "Parking miễn phí 3 tiếng cuối tuần",
+    "description": "Mua hóa đơn từ 300,000 VNĐ, nhận ngay 3 tiếng parking miễn phí tại The Garden Mall.",
+    "image": "https://picsum.photos/seed/promo-parking/600/400",
+    "badge": "Ưu đãi",
+    "badgeColor": "bg-blue-500",
+    "validUntil": "Mỗi cuối tuần",
+    "category": "service"
+  }
+]
